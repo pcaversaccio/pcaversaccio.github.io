@@ -2,7 +2,7 @@
 
 [![🌞 Pages Build and Deployment](https://github.com/pcaversaccio/pcaversaccio.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/pcaversaccio/pcaversaccio.github.io/actions/workflows/pages/pages-build-deployment)
 [![👮‍♂️ Sanity checks](https://github.com/pcaversaccio/pcaversaccio.github.io/actions/workflows/checks.yml/badge.svg)](https://github.com/pcaversaccio/pcaversaccio.github.io/actions/workflows/checks.yml)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License: AGPL-3.0-only](https://img.shields.io/badge/License-AGPL--3.0--only-blue)](https://www.gnu.org/licenses/agpl-3.0)
 
 Source code for [pcaversaccio.com](https://pcaversaccio.com).
 
