@@ -43,8 +43,8 @@ jobs:
         uses: codespell-project/actions-codespell@v2
         with:
           check_filenames: true
+          skip: ./.git,./assets
           ignore_words_list: daita
-          skip: ./assets
 
   validate-links:
     runs-on: ${{ matrix.os }}
